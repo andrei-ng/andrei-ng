@@ -1,12 +1,9 @@
 ## Hi there 
 
-I decided to get involved in open source ... and I love it. I am particularly interested in robotics and navigation.
-
-### I’m currently a contributor to ... 
+I am a contributor to the following projects 
 
  - [plotly.rs](https://github.com/plotly/plotly.rs)
  - [ublox.rs](https://github.com/ublox-rs/ublox)
-
 
 <!--
 **andrei-ng/andrei-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
