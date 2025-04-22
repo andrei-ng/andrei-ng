@@ -3,7 +3,7 @@
 I am a contributor to the following projects 
 
  - [plotly.rs](https://github.com/plotly/plotly.rs)
- - [ublox.rs](https://github.com/ublox-rs/ublox)
+ - [u-blox.rs](https://github.com/ublox-rs/ublox)
 
 <!--
 **andrei-ng/andrei-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
